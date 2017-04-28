@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493415628 source:e:\espacio de trabajo\tp2\funcionestp2.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionestp2.h"
+
+1493415605 source:e:\espacio de trabajo\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionestp2.h"
+
+1493415605 e:\espacio de trabajo\tp2\funcionestp2.h
+
